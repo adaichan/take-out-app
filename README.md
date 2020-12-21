@@ -1,4 +1,4 @@
-# gshop
+# take-out-app
 
 > A Vue.js project
 
